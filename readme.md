@@ -7,7 +7,7 @@ Investigate dataset with python
 ### Description
 This project demonstrates a use case of exploring a simple dataset of 100,000 no-show medical appointments with python as the tool of choice.
 
-Included in the repository is a `Project_investigate-a-dataset.html` file which is an exported Jupyter Notebook `.ipynb` file for easy review.  This documents the data analysis steps from basic data wrangling to interpreting visualizations of aggregate data and statistical functions.
+Included in the repository is a `Project_investigate-a-dataset.html` file which is an exported Jupyter Notebook `.ipynb` file for easy review.  Additionally, the `Project_investigate-a-dataset.pdf` file is included for easy reaview within github.  This documents the data analysis steps from basic data wrangling to interpreting visualizations of aggregate data and statistical functions.
 
 If the user has Anacand and Jupyter Notebooks with the required packages installed, the `Project_investigate-a-dataset.ipynb` file is included alongside the required data `*.csv` file in the same directory.
 
@@ -15,6 +15,7 @@ Note that the investigation of this data is powerfully streamlined through the u
 
 ### Files used
 
+* Project_investigate-a-dataset.pdf
 * Project_investigate-a-dataset.html
 * Project_investigate-a-dataset.ipynb
 * noshowappointments-kagglev2-may-2016.csv

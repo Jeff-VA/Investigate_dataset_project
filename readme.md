@@ -35,7 +35,7 @@ Note that the investigation of this data is powerfully streamlined through the u
 
 ###### This project was a part of the following online program
 
-* https://www.udacity.com/course/programming-for-data-science-nanodegree--nd104
+* https://www.udacity.com/course/data-analyst-nanodegree--nd002
 
 ###### Sources code reference:
 
